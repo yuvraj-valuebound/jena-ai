@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://sim.ai" target="_blank" rel="noopener noreferrer">
+  <!-- <a href="https://sim.ai" target="_blank" rel="noopener noreferrer">
     <img src="apps/sim/public/logo/reverse/text/large.png" alt="Sim Logo" width="500"/>
-  </a>
+  </a> -->
 </p>
 
 <p align="center">Build and deploy AI agent workflows in minutes.</p>
